@@ -5,7 +5,7 @@ Un bot de gestion de communauté sur le réseau Root / A community management bo
 Politique de Confidentialité — CommunityMaster
 Dernière mise à jour : 3 octobre 2026
 
-La présente Politique de Confidentialité a pour objectif de vous informer de manière transparente sur la façon dont l'application/bot CommunityMaster (ci-après « le Bot ») collecte, utilise et protège les données des utilisateurs et des communautés sur la plateforme Root.
+La présente Politique de Confidentialité a pour objectif de vous informer de manière transparente sur la façon dont le bot CommunityMaster collecte, utilise et protège les données des utilisateurs et des communautés sur la plateforme Root.
 
 1. Responsable du traitement
 Le Bot est développé et maintenu par 1337x sur Root.
@@ -58,7 +58,7 @@ Le Développeur se réserve le droit de mettre à jour cette Politique de Confid
 Privacy Policy — CommunityMaster
 Last updated: October 3, 2026
 
-This Privacy Policy explains in a transparent manner how the bot/application CommunityMaster ("the Bot") collects, uses, and safeguards data from users and communities on the Root platform.
+This Privacy Policy explains in a transparent manner how the bot CommunityMaster collects, uses, and safeguards data from users and communities on the Root platform.
 
 1. Data Controller
 The Bot is developed and operated by 1337x on Root.
